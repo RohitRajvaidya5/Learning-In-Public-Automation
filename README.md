@@ -1,6 +1,6 @@
 # Learning in Public Tweet Automation 🚀
 
-A Python automation tool that converts daily learning notes into clean, tweet-ready posts and publishes them on X (Twitter).
+A Python automation tool that converts daily learning notes into clean, tweet-ready posts and publishes them on X (Twitter).   
 
 The script reads raw learning text from a file, paraphrases it using Google Gemini with a learning-in-public tone, formats it for readability, enforces Twitter’s 280-character limit, and posts it automatically.
 
