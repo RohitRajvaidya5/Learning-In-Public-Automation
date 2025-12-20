@@ -1,0 +1,15 @@
+
+# Environment Variables
+
+.env
+
+# Virtual Environment
+
+env/
+
+.venv/
+
+
+# Input file
+
+input.txt
