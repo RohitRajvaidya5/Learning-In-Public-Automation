@@ -21,4 +21,4 @@ The focus is on reducing manual effort while learning backend development and au
 This is a learning-first repo. Some scripts are experiments and may change or break.
 
 ## Author
-Rohit
+Rohit Rajvaidya
